@@ -41,7 +41,7 @@
                 <input type="datetime-local" class="datetime-local" v-model="modalTodo.deadline"/>
             </mdb-modal-body>
             <mdb-modal-footer>
-                <mdb-btn color="primary" @click="saveEditedTodo">Save changes</mdb-btn>
+                <mdb-btn class="save" color="primary" @click="saveEditedTodo">Save changes</mdb-btn>
             </mdb-modal-footer>
         </mdb-modal>
     </div>
@@ -254,4 +254,7 @@
         border-style: none;
     }
 
+    .modal-title {
+        font-size: 2rem;
+    }
 </style>

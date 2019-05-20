@@ -131,6 +131,7 @@
     .innerInputBox > .title,
     .innerInputBox > .content,
     .innerInputBox > .priority {
+        width: 300px;
         margin: 5px 0 5px 0;
     }
 
@@ -147,4 +148,5 @@
         color: white;
         margin: 50px 0;
     }
+
 </style>
