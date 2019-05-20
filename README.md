@@ -1,7 +1,8 @@
 # TodoWebApp
 Programmers - 2019 Summer Coding 2nd Work    
 
-duration : 2019.05.13 ~ 20  
+## Project Infromation
+period : 2019.05.13 ~ 20  
 environment : Windows 10  
 tool : WebStorm  
 framework : Vue.js  
@@ -23,4 +24,8 @@ This app use Webpack server instead of Node.js.
 3. type "npm run dev"
   
 ## Link
-http://summercoding2019.s3-website.ap-northeast-2.amazonaws.com/index.html
+http://summercoding2019.s3-website.ap-northeast-2.amazonaws.com/#/
+  
+## Reference
+Vue.js : https://kr.vuejs.org/v2/guide/index.html
+MDB : https://mdbootstrap.com/docs/vue/
