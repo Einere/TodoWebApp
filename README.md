@@ -1,5 +1,6 @@
 # TodoWebApp
-Programmers - 2019 Summer Coding 2nd Work    
+![screen_shot.png](./src/assets/screen_shot.png)
+Programmers - 2019 Summer Coding 2nd Work  
 
 ## Project Infromation
 period : 2019.05.13 ~ 20  
@@ -21,7 +22,8 @@ This app use Webpack server instead of Node.js.
 ### Build
 1. clone or download.
 2. go to project directory.
-3. type "npm run dev"
+3. type "npm install"
+4. type "npm run dev"
   
 ## Link
 http://summercoding2019.s3-website.ap-northeast-2.amazonaws.com/#/
