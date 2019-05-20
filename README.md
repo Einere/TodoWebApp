@@ -1,5 +1,6 @@
 # TodoWebApp
-Programmers - 2019 Summer Coding 2nd Work    
+![screen_shot.png](./src/assets/screen_shot.png)
+Programmers - 2019 Summer Coding 2nd Work  
 
 ## Project Infromation
 period : 2019.05.13 ~ 20  
