@@ -23,4 +23,4 @@ This app use Webpack server instead of Node.js.
 3. type "npm run dev"
   
 ## Link
-http://summercoding2019.s3-website.ap-northeast-2.amazonaws.com/index.html
+http://summercoding2019.s3-website.ap-northeast-2.amazonaws.com/#/
